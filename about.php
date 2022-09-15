@@ -90,8 +90,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>Anggayasa</h3>
+            <p>I am very satisfied with the service and the quality of the motorbike is clean and it makes me feel comfortable driving it</p>
+            <h3>cokorda marta</h3>
             <span>traveler</span>
             <img src="images/pic-1.png" alt="">
          </div>
@@ -103,8 +103,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio similique totam aut laborum ullam sequi! In!</p>
-            <h3>Mrs.Khina</h3>
+            <p>The motorbike rental staff was very efficient and WhatsApp me to confirm the delivery time of the scooter to our villa. We even asked for an early return of the motorbike and the staff allowed us to do that too. motor is in good condition. Highly recommended.</p>
+            <h3>bulan sutena</h3>
             <span>traveler</span>
             <img src="images/pic-2.png" alt="">
          </div>
@@ -115,9 +115,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus enim deserunt, ab at ea iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!</p>
-            <h3>Mr. Alpa</h3>
-            <span>traveler</span>
+            <p></p>
+            <h3>ida bagus wahyu prayoga</h3>
+            <span>traveler</span>the service is good but when I ordered it the process took a long time and the motor was a bit wasteful of fuel and there were parts of the motor function that were not good and useful
             <img src="images/pic-3.png" alt="">
          </div>
 
