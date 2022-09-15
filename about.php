@@ -129,8 +129,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus recusandae cum quibusdam odio dignissimos nemo?</p>
-            <h3>Mrs. hana</h3>
+            <p>very friendly service, good quality motorbike, not wasteful of fuel, I am satisfied renting a motorbike here</p>
+            <h3>dewa ayu santhi</h3>
             <span>traveler</span>
             <img src="images/pic-4.png" alt="">
          </div>
@@ -141,8 +141,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>Mr. jhon</h3>
+            <p>the delivery is quite fast but I don't like the motorbike, the photo is very good but the original has a few scratches</p>
+            <h3>Mr. Dekde</h3>
             <span>traveler</span>
             <img src="images/pic-5.png" alt="">
          </div>
@@ -154,8 +154,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>Sinta</h3>
+            <p>the motorbike is very good, will rent a motorbike here again, thank you</p>
+            <h3>Mirah</h3>
             <span>traveler</span>
             <img src="images/pic-6.png" alt="">
          </div>
