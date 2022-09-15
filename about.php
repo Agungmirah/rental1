@@ -115,9 +115,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p></p>
+            <p>the service is good but when I ordered it the process took a long time and the motor was a bit wasteful of fuel and there were parts of the motor function that were not good and useful</p>
             <h3>ida bagus wahyu prayoga</h3>
-            <span>traveler</span>the service is good but when I ordered it the process took a long time and the motor was a bit wasteful of fuel and there were parts of the motor function that were not good and useful
+            <span>traveler</span>
             <img src="images/pic-3.png" alt="">
          </div>
 

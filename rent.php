@@ -75,9 +75,17 @@
             <select name="motorcycle">
                 <option value="scoopy">Scoopy</option>
                 <option value="vario 125">Vario 125</option>
-                <option value="klx">KLX</option>
+                <option value="klx 150">KLX 150</option>
                 <option value="nmax">NMAX</option>
                 <option value="vario">Vario</option>
+                <option value="kawasaki ninja">Kawasaki ninja </option>
+                <option value="mio modif">Mio modif</option>
+                <option value="vespa antik">Vespa antik</option>
+                <option value="aerox">Aerox</option>
+                <option value="suprax125">Suprax125</option>
+                <option value="mio">Mio</option>
+                <option value="vario 150">Vario 150</option>
+
             </select>
          </div>
          <div class="inputBox">
