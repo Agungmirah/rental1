@@ -107,6 +107,12 @@ section{
    color:var(--black);
 }
 
+.header .navbar a img{
+   width: 1px;
+   height: 1px;
+   right: 0px;
+   position: relative;
+}
 .header .navbar a{
    font-size: 2rem;
    margin-left: 2rem;
