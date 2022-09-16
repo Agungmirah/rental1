@@ -29,8 +29,9 @@
       <a href="about.php">about</a>
       <a href="product.php">product</a>
       <a href="rent.php">rent</a>
-   </nav>
 
+      </nav>
+      <a href="login.php" class="btn">login</a>
    <div id="menu-btn" class="fas fa-bars"></div>
 
 </section>
