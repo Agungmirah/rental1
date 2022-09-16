@@ -59,6 +59,7 @@
             price after discount 630k/day
             </p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="detail.php" class="btn">detail</a>
          </div>
       </div>
 
