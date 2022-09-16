@@ -49,17 +49,17 @@
 <section class="product-detail">
     <div class="img-slider">
         <div class="product-img">
-            <img src="images/ninja.png" class="aktif" alt="">
-            <img src="images/ninja.png" alt="">
-            <img src="images/ninja.png" alt="">
-            <img src="images/ninja.png" alt="">
+            <img src="images/klx150.png" class="aktif" alt="">
+            <img src="images/klx150.png" alt="">
+            <img src="images/klx150.png" alt="">
+            <img src="images/klx150.png" alt="">
         </div>
     </div>
     <div class="detail">
-        <h2 class="product-name">Kawasaki ninja</h2>
+        <h2 class="product-name">KLX 150</h2>
         <p class="product-short-des">motor terbaik.</p>
-        <span class="p-price">Rp.630.000,00</span>
-        <span class="p-aktual-price">Rp.700.000,00</span>
+        <span class="p-price">91,325</span>
+        <span class="p-aktual-price">140,500</span>
         <span class="p-disc">(35% off) </span>
         <div class="detail-produk">
             <h2>Name: SUZUKI</h2>

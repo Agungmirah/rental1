@@ -72,6 +72,7 @@
             <p>price before diskon 300k/day <br>
             price after discount 255k/day</p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="" class="btn">detail</a>
          </div>
       </div>
 
@@ -84,6 +85,7 @@
             <p>price before diskon 200k/day <br>
             price after discount 180k/day</p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="" class="btn">detail</a>
          </div>
       </div>
 
@@ -96,6 +98,7 @@
             <p>price before diskon 250k/day <br>
             price after discount 187,500/day</p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="" class="btn">detail</a>
          </div>
       </div>
 
@@ -108,6 +111,7 @@
             <p>price before diskon 220k/day <br>
             price after discount 154k/day</p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="" class="btn">detail</a>
          </div>
       </div>
 
@@ -120,6 +124,7 @@
             <p>price before diskon 350k/day <br>
             price after discount 262,500/day</p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="" class="btn">detail</a>
          </div>
       </div>
 
@@ -132,6 +137,7 @@
             <p>price before diskon 350k/day <br>
             price after discount 297,500/day</p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="" class="btn">detail</a>
          </div>
       </div>
 
@@ -144,6 +150,7 @@
             <p>price before diskon 170k/day <br>
             price after discount 144,500/day</p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="" class="btn">detail</a>
          </div>
       </div>
 
@@ -156,6 +163,7 @@
             <p>price before diskon 200k/day <br>
             price after discount 180k/day</p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="" class="btn">detail</a>
          </div>
       </div>
 
@@ -168,6 +176,7 @@
             <p>price before diskon 125k/day <br>
             price after discount 112,500k/day</p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="" class="btn">detail</a>
          </div>
       </div>
 
@@ -180,6 +189,7 @@
             <p>price before diskon 150k/day <br>
             price after discount 135k/day</p>
             <a href="rent.php" class="btn">rent now</a>
+            <a href="" class="btn">detail</a>
          </div>
       </div>
 
@@ -192,6 +202,7 @@
             <p>price before diskon 100k/day <br>
             price after discount 90k/day</p>
             <a href="rent.php" class="btn">rent now</a>
+             <a href="" class="btn">detail</a>
          </div>
       </div>
 
