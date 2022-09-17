@@ -219,16 +219,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <!-- footer section starts  -->
 
 <section class="footer">
