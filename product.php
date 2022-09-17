@@ -81,7 +81,7 @@
          <img src="images/mio.png" alt="">
          </div>
          <div class="content">
-            <h3>Mio modif</h3>
+            <h3>Vario modif</h3>
             <p>price before diskon 200k/day <br>
             price after discount 180k/day</p>
             <a href="rent.php" class="btn">rent now</a>
