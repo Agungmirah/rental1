@@ -49,7 +49,7 @@
 
    <div class="box-container">
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/detail.php';">
          <div class="image">
          <img src="images/ninja.png" alt="">
          </div>
@@ -59,11 +59,10 @@
             price after discount 630k/day
             </p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="detail.php" class="btn">detail</a>
-         </div>
+                  </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/klx.php';">
          <div class="image">
          <img src="images/klx150.png" alt="">
          </div>
@@ -72,11 +71,11 @@
             <p>price before diskon 300k/day <br>
             price after discount 255k/day</p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="" class="btn">detail</a>
+           
          </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/mio.php';">
          <div class="image">
          <img src="images/mio.png" alt="">
          </div>
@@ -85,11 +84,11 @@
             <p>price before diskon 200k/day <br>
             price after discount 180k/day</p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="" class="btn">detail</a>
+         
          </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/nmax.php';">
          <div class="image">
          <img src="images/nmax.png" alt="">
          </div>
@@ -98,11 +97,10 @@
             <p>price before diskon 250k/day <br>
             price after discount 187,500/day</p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="" class="btn">detail</a>
          </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/vario150.php';">
          <div class="image">
          <img src="images/vario 150.png" alt="">
          </div>
@@ -111,11 +109,10 @@
             <p>price before diskon 220k/day <br>
             price after discount 154k/day</p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="" class="btn">detail</a>
          </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/vesan.php';">
          <div class="image">
          <img src="images/vespalama.png" alt="">
          </div>
@@ -124,11 +121,10 @@
             <p>price before diskon 350k/day <br>
             price after discount 262,500/day</p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="" class="btn">detail</a>
          </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/aerox.php';">
          <div class="image">
          <img src="images/aerox.png" alt="">
          </div>
@@ -137,11 +133,10 @@
             <p>price before diskon 350k/day <br>
             price after discount 297,500/day</p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="" class="btn">detail</a>
          </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/supra.php';">
          <div class="image">
          <img src="images/suprax125.png" alt="">
          </div>
@@ -150,11 +145,10 @@
             <p>price before diskon 170k/day <br>
             price after discount 144,500/day</p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="" class="btn">detail</a>
          </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/scoopy.php';">
          <div class="image">
          <img src="images/scoopy.png" alt="">
          </div>
@@ -163,11 +157,10 @@
             <p>price before diskon 200k/day <br>
             price after discount 180k/day</p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="" class="btn">detail</a>
          </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/vario125.php';">
          <div class="image">
          <img src="images/vario125.png" alt="">
          </div>
@@ -176,11 +169,10 @@
             <p>price before diskon 125k/day <br>
             price after discount 112,500k/day</p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="" class="btn">detail</a>
          </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/pcx.php';">
          <div class="image">
          <img src="images/pcx.png" alt="">
          </div>
@@ -189,20 +181,18 @@
             <p>price before diskon 150k/day <br>
             price after discount 135k/day</p>
             <a href="rent.php" class="btn">rent now</a>
-            <a href="" class="btn">detail</a>
          </div>
       </div>
 
-      <div class="box">
+      <div class="box" onclick="window.location.href='detail/vestik.php';">
          <div class="image">
-         <img src="images/mio.png" alt="">
+         <img src="images/ve.png" alt="">
          </div>
          <div class="content">
-            <h3>Mio</h3>
-            <p>price before diskon 100k/day <br>
-            price after discount 90k/day</p>
+            <h3>Vespa Matic</h3>
+            <p>price before diskon 280k/day <br>
+            price after discount 252k/day</p>
             <a href="rent.php" class="btn">rent now</a>
-             <a href="" class="btn">detail</a>
          </div>
       </div>
 

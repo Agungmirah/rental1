@@ -29,9 +29,9 @@
       <a href="about.php">about</a>
       <a href="product.php">product</a>
       <a href="rent.php">rent</a>
+      <a href="login.php">login</a>
 
       </nav>
-      <a href="login.php" class="btn">login</a>
    <div id="menu-btn" class="fas fa-bars"></div>
 
 </section>
@@ -146,7 +146,7 @@
    <div class="box-container">
 
       <div class="box">
-         <div class="image">
+         <div class="image" onclick="window.location.href='detail/detail.php';">
             <img src="images/ninja.png" alt="">
          </div>
          <div class="content">
@@ -159,7 +159,7 @@
       </div>
 
       <div class="box">
-         <div class="image">
+         <div class="image" onclick="window.location.href='detail/klx.php';">
             <img src="images/klx150.png" alt="">
          </div>
          <div class="content">
@@ -171,7 +171,7 @@
       </div>
       
       <div class="box">
-         <div class="image">
+         <div class="image" onclick="window.location.href='detail/mio.php';">
             <img src="images/mio.png" alt="">
          </div>
          <div class="content">
