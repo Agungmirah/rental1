@@ -79,7 +79,7 @@
                 <option value="nmax">NMAX</option>
                 <option value="vario">Vario</option>
                 <option value="kawasaki ninja">Kawasaki ninja </option>
-                <option value="mio modif">Mio modif</option>
+                <option value="mio modif">Vario modif</option>
                 <option value="vespa antik">Vespa antik</option>
                 <option value="aerox">Aerox</option>
                 <option value="suprax125">Suprax125</option>

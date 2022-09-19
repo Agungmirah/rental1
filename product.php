@@ -55,8 +55,8 @@
          </div>
          <div class="content">
             <h3>Kawasaki ninja</h3>
-            <p>price before diskon 700k/day <br>
-            price after discount 630k/day
+            <p>price before diskon 200k/day <br>
+            price after discount 180k/day
             </p>
             <a href="rent.php" class="btn">rent now</a>
                   </div>
@@ -68,8 +68,8 @@
          </div>
          <div class="content">
             <h3>klx 150</h3>
-            <p>price before diskon 300k/day <br>
-            price after discount 255k/day</p>
+            <p>price before diskon 200k/day <br>
+            price after discount 170k/day</p>
             <a href="rent.php" class="btn">rent now</a>
            
          </div>
@@ -80,9 +80,9 @@
          <img src="images/mio.png" alt="">
          </div>
          <div class="content">
-            <h3>Mio modif</h3>
-            <p>price before diskon 200k/day <br>
-            price after discount 180k/day</p>
+            <h3>Vario modif</h3>
+            <p>price before diskon 100/day <br>
+            price after discount 90/day</p>
             <a href="rent.php" class="btn">rent now</a>
          
          </div>
@@ -94,8 +94,8 @@
          </div>
          <div class="content">
             <h3>NMAX</h3>
-            <p>price before diskon 250k/day <br>
-            price after discount 187,500/day</p>
+            <p>price before diskon 160k/day <br>
+            price after discount 120k/day</p>
             <a href="rent.php" class="btn">rent now</a>
          </div>
       </div>
@@ -106,8 +106,8 @@
          </div>
          <div class="content">
             <h3>vario 150</h3>
-            <p>price before diskon 220k/day <br>
-            price after discount 154k/day</p>
+            <p>price before diskon 150k/day <br>
+            price after discount 105k/day</p>
             <a href="rent.php" class="btn">rent now</a>
          </div>
       </div>
@@ -118,8 +118,8 @@
          </div>
          <div class="content">
             <h3>vespa antik</h3>
-            <p>price before diskon 350k/day <br>
-            price after discount 262,500/day</p>
+            <p>price before diskon 160k/day <br>
+            price after discount 120k/day</p>
             <a href="rent.php" class="btn">rent now</a>
          </div>
       </div>
@@ -130,8 +130,8 @@
          </div>
          <div class="content">
             <h3>Aerox</h3>
-            <p>price before diskon 350k/day <br>
-            price after discount 297,500/day</p>
+            <p>price before diskon 142k/day <br>
+            price after discount 120k/day</p>
             <a href="rent.php" class="btn">rent now</a>
          </div>
       </div>
@@ -142,8 +142,8 @@
          </div>
          <div class="content">
             <h3>Supra X 125</h3>
-            <p>price before diskon 170k/day <br>
-            price after discount 144,500/day</p>
+            <p>price before diskon 115k/day <br>
+            price after discount 97k/day</p>
             <a href="rent.php" class="btn">rent now</a>
          </div>
       </div>
@@ -154,8 +154,8 @@
          </div>
          <div class="content">
             <h3>Scoopy</h3>
-            <p>price before diskon 200k/day <br>
-            price after discount 180k/day</p>
+            <p>price before diskon 135kk/day <br>
+            price after discount 99k/day</p>
             <a href="rent.php" class="btn">rent now</a>
          </div>
       </div>
@@ -203,16 +203,6 @@
 </section>
 
 <!-- packages section ends -->
-
-
-
-
-
-
-
-
-
-
 
 
 
