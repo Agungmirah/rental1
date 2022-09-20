@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <?php session_start(); include('head.php');?>
+  <?php session_start(); 
+  if(!$_SESSION['nama']){
+    header('Location: ../login.php');
+  }
+  include('head.php');?>
   <?php include('../conf/config.php');?>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
@@ -43,19 +47,18 @@
     <!-- /.content-header -->
 
     <!-- Main content -->
-    <?php 
-    if (isset($_GET['page'])){
-
-    if ($_GET['page']=='dashboard'){
-      include('dashboard.php');
-    }
-    else if ($_GET['page']=='datapelanggan'){
+      <?php
+      if (isset($_GET['page'])){
+        if ($_GET['page']=='dashboard'){
+          include('dashboard.php');
+        }
+        else if($_GET['page']=='datapelanggan'){
       include('datapelanggan.php');
-    }
-  }
-  else{
-    include('dashboard.php');
-    }?>
+        }
+      } 
+      else{
+        include('dashboard.php');
+      } ?>
 
     <!-- /.content -->
   </div>
