@@ -73,8 +73,8 @@ Sistem Bahan Bakar
 Fuel Injection (FI) <br>
 Kapasitas Tangki
 6,6 Liter</p>
-        <span class="p-price">187,500/day</span>
-        <span class="p-aktual-price">250k/day</span>
+        <span class="p-price">120/day</span>
+        <span class="p-aktual-price">160k/day</span>
             <a href="../rent.php">  <button class="btn">rent now</button></a>
     </div>
 </section>

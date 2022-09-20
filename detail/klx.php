@@ -55,8 +55,8 @@
         <h2 class="product-name">KLX 150</h2>
         <p class="product-short-des">Roda yang lebih besar berukuran 21" depan dan 18" belakang <br>
 Tingkat kinerja off-road yang lebih tinggi</p>
-        <span class="p-price">255k/day</span>
-        <span class="p-aktual-price">300k/day</span>
+        <span class="p-price">200k/day</span>
+        <span class="p-aktual-price">170k/day</span>
              <a href="../rent.php"> <button class="btn">rent now</button></a>
     </div>
 </section>

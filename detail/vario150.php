@@ -81,8 +81,8 @@ Berat
 112 kg <br>
 Kapasitas Tangki
 5.5 L</p>
-        <span class="p-price">154k/day</span>
-        <span class="p-aktual-price">220k/day</span>
+        <span class="p-price">105k/day</span>
+        <span class="p-aktual-price">150k/day</span>
         <a href="../rent.php"> <button class="btn">rent now</button></a>
     </div>
 </section>

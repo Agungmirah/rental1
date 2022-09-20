@@ -62,8 +62,8 @@ Daya Maksimum	6,6 kW (9 PS) / 7.500 rpm <br>
 Torsi Maksimum	9,3 Nm (0,95 kgf.m) / 5.500 rpm <br>
 Tipe Starter	Elektrik & kick Starter / Elektrik (Tipe Smart Key) <br>
 Tipe Kopling	Otomatis, Sentrifugal, Tipe Kering</p>
-        <span class="p-price">180k/day</span>
-        <span class="p-aktual-price">200k/day</span>
+        <span class="p-price">99k/day</span>
+        <span class="p-aktual-price">135k/day</span>
              <a href="../rent.php"> <button class="btn">rent now</button></a>
     </div>
 </section>

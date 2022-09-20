@@ -56,8 +56,8 @@
         <p class="product-short-des">mesin dengan kapasitas 145,5cc, 2-stroke, single cylinder <br>
          skuter ini dapat meletupkan tenaga hingga 7,7 hp pada putaran mesin 5.000 rpm <br>
          serta mampu mencapai kecepatan maksimal hingga 90 km/jam.</p>
-        <span class="p-price">262,500/day</span>
-        <span class="p-aktual-price">350k/day</span>
+        <span class="p-price">120/day</span>
+        <span class="p-aktual-price">160k/day</span>
              <a href="../rent.php"> <button class="btn">rent now</button></a>
     </div>
 </section>

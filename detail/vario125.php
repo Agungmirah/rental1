@@ -64,8 +64,8 @@ Torsi Maksimum	10,8 Nm (1,1 kgf.m) / 5.000 rpm <br>
 Tipe Starter	Elektrik <br>
 Tipe Kopling	Automatic Centrifugal Clutch Dry Type <br>
 Tipe Minyak Pelumas	Basah</p>
-        <span class="p-price">91,325/day</span>
-        <span class="p-aktual-price">140,500/day</span>
+        <span class="p-price">112,500k/day</span>
+        <span class="p-aktual-price">125k/day</span>
               <a href="../rent.php"><button class="btn">rent now</button></a>
     </div>
 </section>

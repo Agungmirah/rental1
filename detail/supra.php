@@ -64,8 +64,8 @@ Tipe Starter:	Starter Kaki dan Elektrik <br>
 Tipe Kopling:	Multiplate Wet Clutch with Coil Spring <br>
 Sistem Pendingin Mesin:	Pendingin Udara <br>
 Pola Perpindahan Gigi:	N-1-2-3-4-N</p>
-        <span class="p-price">91,325/day</span>
-        <span class="p-aktual-price">140,500/day</span>
+        <span class="p-price">97k/day</span>
+        <span class="p-aktual-price">115k/day</span>
              <a href="../rent.php"> <button class="btn">rent now</button></a>
     </div>
 </section>

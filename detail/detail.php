@@ -64,8 +64,8 @@ Tipe Starter
 Elektrik <br>
 Sistem Bahan Bakar
 Fuel Injection Sistem (o28 mm x 2) dengan katup Throttle Ganda</p>
-        <span class="p-price">630k/day</span>
-        <span class="p-aktual-price">700k/day</span>
+        <span class="p-price">180k/day</span>
+        <span class="p-aktual-price">200k/day</span>
              <a href="../rent.php"> <button class="btn">rent now</button>
     </div>
 </section>
@@ -97,7 +97,7 @@ Fuel Injection Sistem (o28 mm x 2) dengan katup Throttle Ganda</p>
                 <div class="product-info">
                     <h2 class="product-name">Kawasaki Ninja</h2>
                     <p class="product-short-des">Price rent/day</p>
-                    <span class="price">630k</span> <span class="actual-price">700k</span>
+                    <span class="price">180</span> <span class="actual-price">200</span>
                 </div>
             </div>
 

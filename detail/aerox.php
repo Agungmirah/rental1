@@ -66,8 +66,8 @@ Diameter x Langkah	58,0 mm x 58.7 mm <br>
 Perbandingan Kompresi	11.6 : 1 <br>
 Daya Maksimum	11.3 kW / 8000 rpm <br>
 Torsi Maksimum	13.9Nm / 6500rpm</p>
-        <span class="p-price">297,500/day</span>
-        <span class="p-aktual-price">350k/day</span>
+        <span class="p-price">120/day</span>
+        <span class="p-aktual-price">142k/day</span>
               <a href="../rent.php"><button class="btn">rent now</button></a>
     </div>
 </section>
