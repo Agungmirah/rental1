@@ -196,7 +196,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
                 <div class="product-info">
                     <h2 class="product-name">Vespa Matic</h2>
                     <p class="product-short-des">Price rent/day</p>
-                    <span class="price">252k</span> <span class="actual-price">280k</span>
+                    <span class="price">180k</span> <span class="actual-price">200k</span>
                 </div>
             </div>
 
