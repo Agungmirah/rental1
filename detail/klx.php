@@ -76,7 +76,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
                 <div class="product-info">
                     <h2 class="product-name">KLX 150</h2>
                     <p class="product-short-des">price rent /day</p>
-                    <span class="price">200k</span> <span class="actual-price">180k</span>
+                    <span class="price">180k</span> <span class="actual-price">200k</span>
                 </div>
             </div>
 
@@ -88,7 +88,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
                 <div class="product-info">
                     <h2 class="product-name">Kawasaki Ninja</h2>
                     <p class="product-short-des">Price rent/day</p>
-                    <span class="price">200k</span> <span class="actual-price">180k</span>
+                    <span class="price">180k</span> <span class="actual-price">200k</span>
                 </div>
             </div>
 
@@ -100,7 +100,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
             <div class="product-info">
                 <h2 class="product-name"> Vario Modif</h2>
                 <p class="product-short-des">Price rent /day</p>
-                <span class="price">100k</span> <span class="actual-price">90k</span>
+                <span class="price">90k</span> <span class="actual-price">100k</span>
             </div>
         </div>
 
@@ -112,7 +112,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
         <div class="product-info">
             <h2 class="product-name">NMAX</h2>
             <p class="product-short-des">Price rent/day</p>
-            <span class="price">160k</span> <span class="actual-price">120k</span>
+            <span class="price">120k</span> <span class="actual-price">160k</span>
         </div>
     </div>
 
@@ -124,7 +124,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
         <div class="product-info">
             <h2 class="product-name">Vespa Antik</h2>
             <p class="product-short-des">Price rent /day</p>
-            <span class="price">160k</span> <span class="actual-price">120k</span>
+            <span class="price">120k</span> <span class="actual-price">160k</span>
         </div>
     </div>
 
@@ -136,7 +136,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
     <div class="product-info">
         <h2 class="product-name">Aerox</h2>
         <p class="product-short-des">Price rent/day</p>
-        <span class="price">142k</span> <span class="actual-price">120k</span>
+        <span class="price">120k</span> <span class="actual-price">142k</span>
     </div>
 </div>
 
@@ -148,7 +148,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
                 <div class="product-info">
                     <h2 class="product-name">Supra X 125</h2>
                     <p class="product-short-des">price rent/day</p>
-                    <span class="price">115k</span> <span class="actual-price">97k</span>
+                    <span class="price">97k</span> <span class="actual-price">115k</span>
                 </div>
             </div>
 
@@ -160,7 +160,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
                 <div class="product-info">
                     <h2 class="product-name">Scoopy</h2>
                     <p class="product-short-des">Price rent/day</p>
-                    <span class="price">135k</span> <span class="actual-price">99k</span>
+                    <span class="price">99k</span> <span class="actual-price">135k</span>
                 </div>
             </div>
 
@@ -172,7 +172,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
                 <div class="product-info">
                     <h2 class="product-name">Vario 125</h2>
                     <p class="product-short-des">Price rent/day</p>
-                    <span class="price">125k</span> <span class="actual-price">112,500k</span>
+                    <span class="price">112,500k</span> <span class="actual-price">125k</span>
                 </div>
             </div>
 
@@ -184,7 +184,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
                 <div class="product-info">
                     <h2 class="product-name">PCX</h2>
                     <p class="product-short-des">Price rent/day</p>
-                    <span class="price">150k</span> <span class="actual-price">135k</span>
+                    <span class="price">135k</span> <span class="actual-price">150k</span>
                 </div>
             </div>
 
@@ -196,7 +196,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
                 <div class="product-info">
                     <h2 class="product-name">Vespa Matic</h2>
                     <p class="product-short-des">Price rent/day</p>
-                    <span class="price">280k</span> <span class="actual-price">252k</span>
+                    <span class="price">252k</span> <span class="actual-price">280k</span>
                 </div>
             </div>
 
@@ -208,7 +208,7 @@ Tingkat kinerja off-road yang lebih tinggi</p>
                 <div class="product-info">
                     <h2 class="product-name">Vario 150 </h2>
                     <p class="product-short-des">Price rent/day</p>
-                    <span class="price">150k</span> <span class="actual-price">105k</span>
+                    <span class="price">105k</span> <span class="actual-price">150k</span>
                 </div>
             </div>
         </div>
