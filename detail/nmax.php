@@ -94,7 +94,7 @@ Kapasitas Tangki
                 <div class="product-info">
                     <h2 class="product-name">KLX 150</h2>
                     <p class="product-short-des">price rent /day</p>
-                    <span class="price">255k</span> <span class="actual-price">300k</span>
+                    <span class="price">170k</span> <span class="actual-price">200k</span>
                 </div>
             </div>
 
