@@ -59,8 +59,8 @@ Volume silinder 125cc <br>
 Daya maksimum 7kW / 8000 rpm <br>
 Sistem starter Electric & kick starter <br>
 Sistem pelumasan wet sump </p>
-        <span class="p-price">90k/day</span>
-        <span class="p-aktual-price">100k/day</span>
+        <span class="p-price">180k/day</span>
+        <span class="p-aktual-price">200k/day</span>
              <a href="../rent.php"> <button class="btn">rent now</button></a>
     </div>
 </section>
