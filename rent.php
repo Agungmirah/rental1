@@ -52,27 +52,27 @@
       <div class="flex">
          <div class="inputBox">
             <span>name :</span>
-            <input type="text" placeholder="enter your name" name="name">
+            <input type="text" placeholder="enter your name" name="name" required>
          </div>
          <div class="inputBox">
             <span>Phone :</span>
-            <input type="text" placeholder="enter your number" name="phone">
+            <input type="text" placeholder="enter your number" name="phone" required>
          </div>
          <div class="inputBox">
             <span>address :</span>
-            <input type="text" placeholder="enter your address" name="address">
+            <input type="text" placeholder="enter your address" name="address" required>
          </div>
          <div class="inputBox">
             <span>where to :</span>
-            <input type="text" placeholder="place you want to visit" name="location">
+            <input type="text" placeholder="place you want to visit" name="location" required>
          </div>
          <div class="inputBox">
             <span>how many rent :</span>
-            <input type="number" placeholder="how much will rent" name="rent">
+            <input type="number" placeholder="how much will rent" name="rent"  required>
          </div>
          <div class="inputBox">
             <span>Motorcycle :</span>
-            <select name="motorcycle">
+            <select name="motorcycle" required>
                 <option value="scoopy">Scoopy</option>
                 <option value="vario 125">Vario 125</option>
                 <option value="klx 150">KLX 150</option>
@@ -90,19 +90,19 @@
          </div>
          <div class="inputBox">
             <span>start :</span>
-            <input type="date" name="start">
+            <input type="date" name="start" required>
          </div>
          <div class="inputBox">
             <span>Time start :</span>
-            <input type="time" name="time_start">
+            <input type="time" name="time_start" required>
          </div>
          <div class="inputBox">
             <span>end :</span>
-            <input type="date" name="end">
+            <input type="date" name="end" required>
          </div>
          <div class="inputBox">
             <span>time start :</span>
-            <input type="time" name="time_end">
+            <input type="time" name="time_end" required>
          </div>
       </div>
 

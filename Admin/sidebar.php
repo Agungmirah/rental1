@@ -43,6 +43,12 @@
                   <p>Data Pelanggan</p>
                 </a>
               </li>
+              <li class="nav-item">
+                <a href="index.php?page=datablacklist" class="nav-link active">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Data Blacklist</p>
+                </a>
+              </li>
             </ul>
           </li>    
            
