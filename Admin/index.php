@@ -55,6 +55,12 @@
         else if($_GET['page']=='datapelanggan'){
       include('datapelanggan.php');
         }
+        else if($_GET['page']=='datablacklist'){
+          include('datablacklist.php');
+            }
+          else if($_GET['page']=='edit-datab'){
+            include('delete/editb.php');
+              }
       } 
       else{
         include('dashboard.php');
