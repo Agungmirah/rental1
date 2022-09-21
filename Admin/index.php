@@ -49,15 +49,14 @@
     <!-- Main content -->
       <?php
       if (isset($_GET['page'])){
-        if ($_GET['page']=='dashboard'){
-          include('dashboard.php');
-        }
-        else if($_GET['page']=='datapelanggan'){
+         if($_GET['page']=='datapelanggan'){
       include('datapelanggan.php');
         }
-      } 
+        else if($_GET['page']=='edit-data'){
+          include('edit/edit_data.php');
+      } }
       else{
-        include('dashboard.php');
+        include('datapelanggan.php');
       } ?>
 
     <!-- /.content -->

@@ -53,7 +53,7 @@
                     <td><?php echo $pln['end'];?></td>
                     <td><?php echo $pln['time_end'];?></td>
        <td><a href="delete/delete_data.php?Id=<?php echo $pln['Id'];?>" class="btn btn-sm btn-danger">Delete</a>
-       <a href="index.php?page=edit-data" class="btn btn-sm btn-success">Edit</a></td>
+       <a href="index.php?page=edit-data&& Id=<?php echo $pln['Id'];?>" class="btn btn-sm btn-success">Edit</a></td>
 
                   </tr>
                  <?php } ?>
