@@ -11,42 +11,44 @@ $view  = mysqli_fetch_array($query);
               </div>
               <!-- /.card-header -->
               <div class="card-body">
-                <form>
+                <form method='get' action='update/update_data.php'>
                   <div class="row">
                     <div class="col-sm-6">
                       <!-- text input -->
                       <div class="col">
-    <label>Name</label>
-      <input type="text" class="form-control" placeholder="name" name="name" required>
+    <label>name</label>
+      <input type="text" class="form-control" placeholder="name" name="name" value="<?php echo $view['name'];?>">
+      <input type="text" class="form-control" placeholder="name" name="Id" value="<?php echo $view['Id'];?>" hidden>
     </div>
     <br>
     <div class="col">
     <label>Phone</label>
-      <input type="text" class="form-control" placeholder="phone" name="phone" required>
+      <input type="text" class="form-control" placeholder="phone" name="phone" value="<?php echo $view['phone'];?>">
     </div>
     <br>
     <div class="col">
     <label>Address</label>
-      <input type="text" class="form-control" placeholder="address" name="address" required>
+      <input type="text" class="form-control" placeholder="address" name="address" value="<?php echo $view['address'];?>">
     </div>
     </div>
     <br>
     <div class="form-row">
     <div class="col">
     <label>Where to</label>
-      <input type="text" class="form-control" placeholder="where to" name="location" required>
+      <input type="text" class="form-control" placeholder="where to" name="location" value="<?php echo $view['location'];?>">
     </div>
                     
     <br>
     
     <div class="col">
       <label>How many rent</label>
-      <input type="number" class="form-control" placeholder="how many" name="rent" required>
+      <input type="number" class="form-control" placeholder="how many" name="rent" value="<?php echo $view['rent'];?>">
     </div>
     <br>
     <div class="form-group col-md-4">
       <label >Motorcycle</label>
       <select  class="form-control" name="motorcycle" required>
+        <option value="<?php echo $view['motorcycle'];?>"selected><?php echo $view['motorcycle'];?></option>
         <option selected>kawasaki ninja</option>
         <option>klx</option>
         <option>vario125</option>
@@ -82,7 +84,7 @@ $view  = mysqli_fetch_array($query);
     <label>time end</label>
       <input type="time" class="form-control" placeholder="time end" name="timeend" required>
     </div>
-    <button class="btn btn-sm btn-info">Simpan</button>      
+    <button type="submit"class="btn btn-sm btn-info">Simpan</button>      
                 </form>
               </div>
               <!-- /.card-body -->
