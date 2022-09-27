@@ -68,7 +68,7 @@
          </div>
          <div class="inputBox">
             <span>how many rent :</span>
-            <input type="number" placeholder="how much will rent" name="rent"  required>
+            <input type="number" placeholder="how much will rent" name="rent" required>
          </div>
          <div class="inputBox">
             <span>Motorcycle :</span>
