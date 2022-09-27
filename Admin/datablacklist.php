@@ -43,7 +43,7 @@
                     <td><?php echo $pln['alasan'];?></td>
                     <td><?php echo $pln['ktp'];?></td>
        <td><a href="delete/delete_datab.php?id=<?php echo $pln['id'];?>" class="btn btn-sm btn-danger">Delete</a>
-       <a href="index.php?page=edit-datab" class="btn btn-sm btn-success">Edit</a></td>
+       <a href="index.php?page=edit-datab&& id=<?php echo $pln['id'];?>" class="btn btn-sm btn-success">Edit</a></td>
 
                   </tr>
                  <?php } ?>
