@@ -61,7 +61,7 @@
           include('datablacklist.php');
             }
           else if($_GET['page']=='edit-datab'){
-            include('delete/editb.php');
+            include('edit/edit.php');
               }
       } 
 
