@@ -84,6 +84,12 @@ $view  = mysqli_fetch_array($query);
     <label>time end</label>
       <input type="time" class="form-control" placeholder="time end" name="timeend" required>
     </div>
+    <br>
+    <div class="col">
+    <label>ktp</label>
+      <input type="file" class="form-control" placeholder="ktp" name="ktp" required>
+    </div>
+
     <button type="submit"class="btn btn-sm btn-info">Simpan</button>      
                 </form>
               </div>

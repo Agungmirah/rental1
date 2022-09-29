@@ -29,6 +29,7 @@
                     <th>jam mulai</th>
                     <th>selesai</th>
                     <th>jam selesai</th>
+                    <th>ktp</th>
                     <th>action</th>
                   </tr>
                   </thead>
@@ -52,6 +53,7 @@
                     <td><?php echo $pln['time_start'];?></td>
                     <td><?php echo $pln['end'];?></td>
                     <td><?php echo $pln['time_end'];?></td>
+                    <td><?php echo $pln['ktp'];?></td>
        <td><a href="delete/delete_data.php?Id=<?php echo $pln['Id'];?>" class="btn btn-sm btn-danger">Delete</a>
        <a href="index.php?page=edit-data&& Id=<?php echo $pln['Id'];?>" class="btn btn-sm btn-success">Edit</a></td>
 
@@ -72,6 +74,7 @@
                     <th>jam mulai</th>
                     <th>selesai</th>
                     <th>jam selesai</th>
+                    <th>ktp</th>
                     <th>action</th>
                   </tr>
                   </tfoot>
@@ -167,6 +170,11 @@
     <div class="col">
     <label>time end</label>
       <input type="time" class="form-control" placeholder="time end" name="timeend" required>
+    </div>
+    <br>
+    <div class="col">
+    <label>Ktp</label>
+      <input type="file" class="form-control" placeholder="ktp" name="ktp" required>
     </div>
                      </div>
   </div>
